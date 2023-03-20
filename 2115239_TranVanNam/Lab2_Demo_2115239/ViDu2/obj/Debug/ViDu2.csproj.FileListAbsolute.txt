@@ -1,0 +1,11 @@
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\bin\Debug\ViDu2.exe.config
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\bin\Debug\ViDu2.exe
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\bin\Debug\ViDu2.pdb
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.csproj.AssemblyReference.cache
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.frmGiaoVien.resources
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.frmTBGiaoVien.resources
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.Properties.Resources.resources
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.csproj.GenerateResource.cache
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.exe
+C:\Users\MyPC\Downloads\2115239_TranVanNam\Lab2_Demo_2115239\ViDu2\obj\Debug\ViDu2.pdb
